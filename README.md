@@ -11,4 +11,9 @@ Data Cleaning
 * Membership constraints
 * Joins (Anti, inner)
 * Inconsistent categories
+* dealing with leading/trailing spaces
+* Capitalization
+* pd.qcut()
+* pd.cut()
+* .unique()
 * 
