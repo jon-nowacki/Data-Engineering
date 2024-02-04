@@ -27,3 +27,5 @@ Data Cleaning
 * cleaning text data
 * Uniformity (Temperature, weights, length, date time)
 * pd.to_datetime(infer_datetime_format=True, errors='Coerce')
+* dt.strftime()
+* cross field validation
