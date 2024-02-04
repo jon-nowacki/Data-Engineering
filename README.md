@@ -25,4 +25,5 @@ Data Cleaning
 * .max()
 * regular expressions
 * cleaning text data
-* Uniformity (Temperature, weights, length)
+* Uniformity (Temperature, weights, length, date time)
+* pd.to_datetime()
