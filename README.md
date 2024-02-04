@@ -16,4 +16,14 @@ Data Cleaning
 * pd.qcut()
 * pd.cut()
 * .unique()
+* .replace()
+* .str.replace()
+* .str.len()
+* np.nan
+* .str.contains().any()
+* .min()
+* .max()
+* regular expressions
+* 
+* cleaning text data
 * 
