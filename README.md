@@ -24,6 +24,5 @@ Data Cleaning
 * .min()
 * .max()
 * regular expressions
-* 
 * cleaning text data
-* 
+* Uniformity (Temperature, weights, length)
