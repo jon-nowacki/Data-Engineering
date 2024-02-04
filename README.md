@@ -26,4 +26,4 @@ Data Cleaning
 * regular expressions
 * cleaning text data
 * Uniformity (Temperature, weights, length, date time)
-* pd.to_datetime()
+* pd.to_datetime(infer_datetime_format=True, errors='Coerce')
